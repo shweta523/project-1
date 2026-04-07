@@ -1,3 +1,6 @@
 streamlit
 pandas
 scikit-learn
+train_test_split
+logisticRegression
+acurracy_score & classification_report
